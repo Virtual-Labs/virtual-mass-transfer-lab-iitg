@@ -4,7 +4,7 @@
 ** Commit ID : 8dabc440204834f080f129da467c0cba8dfebc66
 
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Sno   |  Experiment Name                 |  Test Case                                           |  Pass/Fail   |  Severity     | Defect Link*    |
+| *Sno   |  Experiment Name |  Test Case  |  Pass/Fail   |  Severity     | Defect Link*    |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.     |  DesignofBinaryDistillationColumn  |  [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/DesignofBinaryDistillationColumn/DesignofBinaryDistillationColumn_01_usability_smk.org][DesignofBinaryDistillationColumn_01_usability_smk.org]]  |     PASS     |     N/A      |      N/A         |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
