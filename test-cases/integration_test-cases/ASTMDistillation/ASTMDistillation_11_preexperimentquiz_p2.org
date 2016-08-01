@@ -11,7 +11,7 @@
   - To view ,take the pre quiz and then submit the pre quiz of “ASTM Distillation” experiment
 
 * Pre conditions
-  - Refer to first test case []
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/ASTMDistillation/ASTMDistillation_01_usability_smk.org][ASTMDistillation_01_usability_smk.org]] 
 
 * Post conditions
    - Nil
