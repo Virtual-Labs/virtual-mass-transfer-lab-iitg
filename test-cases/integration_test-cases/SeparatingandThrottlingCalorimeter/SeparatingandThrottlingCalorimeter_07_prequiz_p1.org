@@ -8,10 +8,10 @@
   - Processor:i7,
 
 * Objective
-  - To view ,take the pre quiz and then cancel the pre quiz of “Separating and Throttling Calorimeter” experiment
+  - To view ,take the pre quiz and then cancel the pre quiz of â€œSeparating and Throttling Calorimeterâ€ experiment
 
 * Pre conditions
-  - Refer to first test case [[]] 
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/SeparatingandThrottlingCalorimeter/SeparatingandThrottlingCalorimeter_01_usability_smk.org][SeparatingandThrottlingCalorimeter_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
