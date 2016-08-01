@@ -8,10 +8,10 @@
   - Processor:i7,
 
 * Objective
-  - To view, take the post quiz and cancel the post quiz and then submit the post quiz of ìFlow through porous media - Iî experiment
+  - To view, take the post quiz and cancel the post quiz and then submit the post quiz of ‚ÄúFlow through porous media - I‚Äù experiment
 
 * Pre conditions
-  - Refer to first test case [[]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/FlowThroughPorousMedia-I/FlowThroughPorousMedia-I_01_usability_smk.org][FlowThroughPorousMedia-I_01_usability_smk.org]]
   
 * Post conditions
    - Nil
