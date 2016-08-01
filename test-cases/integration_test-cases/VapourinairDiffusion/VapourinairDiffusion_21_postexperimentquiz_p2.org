@@ -1,4 +1,4 @@
-﻿* Author:BIJU DAS
+* Author:BIJU DAS
 * Date Created: 15 June 2016
 * Environment
   - OS: Windows 7,Ubuntu-16.04,CentOS-6
@@ -11,7 +11,7 @@
   - To view ,take the post quiz and then submit the post quiz of “Vapour in air Diffusion” experiment
 
 * Pre conditions
-  - Refer to first test case []
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/VapourinairDiffusion/VapourinairDiffusion_01_usability_smk.org][VapourinairDiffusion_01_usability_smk.org]] 
 * Post conditions
    - Nil
 * Test Steps
