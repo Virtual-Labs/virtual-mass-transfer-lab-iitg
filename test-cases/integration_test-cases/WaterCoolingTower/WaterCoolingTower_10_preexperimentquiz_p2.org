@@ -1,4 +1,4 @@
-﻿* Author: BIJU DAS
+* Author: BIJU DAS
 * Date Created: 15 June 2016
 * Environment
   - OS: Windows 7,Ubuntu-16.04,CentOS-6
@@ -11,7 +11,7 @@
   - To view ,take the pre quiz and then submit the pre quiz of “Water Cooling Tower” experiment
 
 * Pre conditions
-  - Refer to first test case []
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/WaterCoolingTower/WaterCoolingTower_01_usability_smk.org][WaterCoolingTower_01_usability_smk.org]]
 
 * Post conditions
    - Nil
