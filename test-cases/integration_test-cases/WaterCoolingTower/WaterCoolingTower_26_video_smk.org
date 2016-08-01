@@ -11,7 +11,7 @@
   - To view the Video of the Water Cooling Tower experiment
 
 * Pre conditions
-  - Refer to first test case [] 
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-mass-transfer-lab-iitg/blob/master/test-cases/integration_test-cases/WaterCoolingTower/WaterCoolingTower_01_usability_smk.org][WaterCoolingTower_01_usability_smk.org]]
 
 * Post conditions
    - Nil
